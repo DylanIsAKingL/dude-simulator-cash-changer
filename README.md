@@ -6,4 +6,4 @@ Just install .exe from the releases tab, open it and dude simulator.
 # Useless information
 I just made this for no reason and yes.
 
-If you get any errors report them [Here](https://discord.gg/PfYMfbzMj7)
+If you get any errors report them **[Here](https://discord.gg/PfYMfbzMj7)**
